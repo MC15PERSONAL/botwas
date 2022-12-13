@@ -23,12 +23,12 @@ global.sgc = "https://chat.whatsapp.com/BkXdpzy1mRD4W0ITpoM99t"
 global.location = "Jabar" //ur location
 
 //bot bomdy 
-global.owner = ['6285624823115'] //ur number
-global.ownernomer = "6285624823115" //ur number
-global.ownertag = '6285624823115' //ur tag number
+global.owner = ['6285643702814'] //ur number
+global.ownernomer = "6285643702814" //ur number
+global.ownertag = '6285643702814' //ur tag number
 global.premium = ['6281646829895'] //ur premium number
 global.botname = 'Alfarabotz-MD' //ur bot name
-global.ownername = "Irfaan Official"
+global.ownername = "MC15"
 global.linkz = "https://youtube.com/channel/@himhiachannel" //your theme url which will be displayed on whatsapp
 global.dana = "6289531704997"
 global.pulsa = "6281646829895"
